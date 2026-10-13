@@ -24,7 +24,7 @@ One theme per tool, no variants, no settings to wrestle with. Every text colour 
 | [`sepps-workshop-windows-terminal`](https://github.com/sepps-workshop/sepps-workshop-windows-terminal) | Theme for Windows Terminal                                                 | released                                                                                                      |
 | [`sepps-workshop-powershell`](https://github.com/sepps-workshop/sepps-workshop-powershell)             | Theme for PowerShell                                                       | released                                                                                                      |
 | [`sepps-workshop-fish`](https://github.com/sepps-workshop/sepps-workshop-fish)                         | Theme for fish                                                             | released                                                                                                      |
-| [`sepps-workshop-starship`](https://github.com/sepps-workshop/sepps-workshop-starship)                 | Theme for Starship                                                         | working                                                                                                       |
+| [`sepps-workshop-starship`](https://github.com/sepps-workshop/sepps-workshop-starship)                 | Theme for Starship                                                         | released                                                                                                      |
 
 The design system is the foundation. The themes live in their own repositories and read every colour from it, so a fix there reaches every tool.
 
